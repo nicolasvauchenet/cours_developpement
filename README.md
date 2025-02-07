@@ -39,7 +39,7 @@ Le cours est structuré en **trois semaines**, chacune étant composée de :
 
 ### **Semaine 3 : Architecture avancée et scalabilité**
 
-- Introduction à l’**architecture Hexagonale** : séparation des préoccupations métier/infrastructure.
+- **Architecture Hexagonale** et **Domain-Driven Design** : concepts et avantages pour les projets complexes.
 - **Microservices** : principes, découpage, communication et orchestration.
 - Gestion des dépendances et **API Gateway**.
 - **Exercice fil rouge** : Migration du projet vers des microservices.
@@ -56,14 +56,14 @@ Nous appliquerons les principes fondamentaux du **développement logiciel bien s
 
 ## Outils et Environnement
 
-- **Langages** : PHP/Symfony et TypeScript (selon le choix pédagogique).
+- **Langages** : selon le choix pédagogique (PHP, TS, Python, etc.).
 - **Environnement de développement** : Docker.
 - **Diagrammes UML** : Utilisation pour modéliser les architectures.
-- **Frameworks & Librairies** : Symfony, Express/NestJS (selon le langage choisi).
+- **Frameworks & Librairies** : Symfony, Express/NestJS, Django, etc. (selon le langage choisi).
 
 ## Pré-requis
 
 - Connaissance de base en **programmation orientée objet (POO)**.
 - Compréhension des **principes SOLID et de l’UML** (avec rappels intégrés).
-- Expérience basique avec **PHP/Symfony ou TypeScript** (selon le langage choisi).
+- Expérience basique avec **PHP/Symfony TypeScript ou Python** (selon le langage choisi).
 - Familiarité avec **Docker** (les bases seront abordées si nécessaire).
